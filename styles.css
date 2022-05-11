@@ -1,0 +1,35 @@
+
+li {
+    color: white;
+}
+
+h3 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+body {
+    text-align: center;
+     background-color: #333333;
+}
+
+.C1 {
+    color: #FFE87C;font-family: 'Bebas Neue', cursive;
+}
+
+.white_border_class {
+	border-style: inset;
+    border-color: white;
+}
+
+.Spongebob{
+    width:360px;   border-style:inset; border-color:#FFE87C;
+
+
+}
+.Yellow_border {border-style :inset; border-color:white;}
+h1{color: orange;font-family: 'Bebas Neue', cursive;}
+.Orange_color{color:orange;}
